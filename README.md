@@ -5,6 +5,7 @@
 * Create a new channel or select an existent one
 * Start chatting!
 Watch video at : https://youtu.be/GJArIzma0ns
+
 steps to run the code on ubuntu
 
 # Create a virtualenv (Optional but reccomended)
